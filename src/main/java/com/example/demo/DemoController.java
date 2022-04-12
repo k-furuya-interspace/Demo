@@ -19,6 +19,7 @@ public class DemoController {
     @GetMapping(value="sayounara")
     public String sayounara(){
         String aiueo = "aiueo";
+        String aiueo2 = "aiueo2";
         return "sayounara";
     }
 }
