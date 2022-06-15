@@ -14,6 +14,9 @@ public class DemoController {
     @GetMapping(value="kon")
     public String kon(){
         String aiueo = "aiueo";
+        String bbbbb = "aiueo";
+        String ccccc = "aiueo";
+        String dddddd = "aiueo";
         return "kon";
     }
 }
